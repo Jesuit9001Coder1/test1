@@ -1,1 +1,2 @@
-System.outprintln("Zane is gay in chem");
+System.out.println("Zane is gay in chem");
+//nikil
