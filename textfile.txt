@@ -1,3 +1,1 @@
-** Insert code here **
-
-** Insert a bug fix here **
+System.outprintln("Zane likes men");
